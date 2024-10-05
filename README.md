@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/OIP.BYUFrfSMKlaWXx9Dov7T8AHaCQ?rs=1&pid=ImgDetMain)]
+![MasterHead](https://libg.s3.us-east-2.amazonaws.com/download/1076/1076-The-Coder.jpg)
 <h1 align="center">Hi 👋, I'm Jayneesh</h1>
 <h3 align="center">I’m a passionate college student and aspiring software developer with expertise in C++, Python, JavaScript, and SQL. A natural problem solver, I enjoy tackling complex challenges and working on innovative projects, particularly in AI and web development.</h3>
 <img align = "right" alt="coding" width = "400" src = "https://miro.medium.com/v2/resize:fit:450/0*N5eiCHrQoCcUEHLj.png">
